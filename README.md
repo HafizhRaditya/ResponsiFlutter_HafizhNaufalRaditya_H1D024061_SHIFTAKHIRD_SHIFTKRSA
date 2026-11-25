@@ -5,7 +5,7 @@
 | Nama | Hafizh Naufal Raditya |
 | NIM | H1D024061 |
 | Mata kuliah | Praktikum Pemrograman Mobile |
-| Video penjelasan | _(link YouTube menyusul)_ |
+| Video penjelasan | (https://youtu.be/FZ1DctScgJw) |
 
 Aplikasi cuaca Flutter yang mengambil data dari **Open-Meteo** (Geocoding API dan Weather Forecast API). Pengguna bisa mencari kota, melihat cuaca terkini dan perkiraan 7 hari, menyimpan kota sebagai favorit, dan melihat riwayat pencarian. Favorit, riwayat, dan kota terakhir yang dibuka disimpan di **SharedPreferences**, jadi tetap ada saat aplikasi dibuka lagi.
 
